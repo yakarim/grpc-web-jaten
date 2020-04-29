@@ -20,6 +20,7 @@ var (
 
 func run() error {
 	port := os.Getenv("PORT")
+	
 	if port == "" {
 		port = "8080"
 	}
