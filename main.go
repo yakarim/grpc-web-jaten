@@ -8,7 +8,7 @@ import (
 
 	"github.com/golang/glog"
 	"github.com/grpc-ecosystem/grpc-gateway/runtime"
-	pb "github.com/yakarim/grpc-web/echopb"
+	pb "github.com/yakarim/grpc-web-jaten/echopb"
 	"google.golang.org/grpc"
 )
 
